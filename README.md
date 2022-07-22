@@ -1,4 +1,7 @@
-## I'm a Zaïr, a young developper !
+
+<h1 align="center">I'm a Zaïr, a young developper !</h1>
+
+<br /><br />
 
 
 - 👟 I work in the sneaker business, building monitors, bypass and bots
@@ -11,7 +14,7 @@
 
 <h2 align="center">💻 Languages & Frameworks & Tools 💻</h2>
 
-
+<br /><br />
   
   
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://google.com/)
@@ -40,10 +43,9 @@
 
 
 <h2 align="center">📈 Stats 📈</h2>
+<br /><br />
 
-<br />
-
-| <a href="https://github.com/ZairKSM"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZairKSM&show_icons=true&hide_border=true&title_color=009DD8&icon_color=009DD8&text_color=000000" alt="Zaïr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZairKSM&hide_border=true&title_color=009DD8&text_color=000000" /></a> |
+| <a href="https://github.com/ZairKSM"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZairKSM&show_icons=true&hide_border=true&title_color=009DD8&icon_color=009DD8&text_color=000000" alt="Zaïr's github stats" /></a> | <a href="https://github.com/ZairKSM"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZairKSM&hide_border=true&title_color=009DD8&text_color=000000" /></a> |
 | ------------- | ------------- |
 
 
