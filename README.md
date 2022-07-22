@@ -1,10 +1,10 @@
-## I'm a Zaïr, a young developper !!
+## I'm a Zaïr, a young developper !
 
 
-- 🌱 I work in the sneaker business, building monitors, bypass and bots
-- 👯 I’m owner of @KoraScript, @KoraTools and @JungleHouse
-- 🥅 2022 Goals: Finish Akamai BP, and start recaptcha BP
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👟 I work in the sneaker business, building monitors, bypass and bots
+- 👨‍💻 I’m owner of **@KoraScript**, **@KoraTools** [<img align="center" float="right" alt="HTML5" width="26px" src="./img/kora-logo.png" style="padding-right:10px;" />](https://discord.gg/BzDGTSWzCD) and **@JungleHouse** [<img align="center" float="right" alt="HTML5" width="26px" src="./img/junglehouse-logo.png" style="padding-right:10px;" />](https://discord.gg/h9Cf5UAxTn)
+- 🥅 2022 Goals: Finish Akamai BP, and start CF BP
+- 🎯 I learned everything I know by myself, thanks Youtube and StackOverflow
 
 
 
@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />](https://google.com/)
-
+[<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://google.com/)
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://google.com/)
@@ -34,7 +34,12 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="ZairKSM's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZairKSM&show_icons=true&hide_border=false&title_color=07cef0&icon_color=03b4dc&bg_color=072a35&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 
 
