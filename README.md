@@ -6,7 +6,7 @@
 
 - 👟 I work in the sneakers business, building monitors, bypass and bots
 - 👨‍💻 I’m owner of **@KoraScript**, **@KoraTools** [<img align="center" float="right" alt="HTML5" width="26px" src="./img/kora-logo.png" style="padding-right:10px;" />](https://discord.gg/BzDGTSWzCD) and **@JungleHouse** [<img align="center" float="right" alt="HTML5" width="26px" src="./img/junglehouse-logo.png" style="padding-right:10px;" />](https://discord.gg/h9Cf5UAxTn)
-- 🥅 2022 Goals: Finish Akamai BP, and start CF BP
+
 - 🎯 I learned everything I know by myself, thanks Youtube and StackOverflow
 
 
@@ -41,7 +41,9 @@
 <br />
 
 
+<h2 align="center">🥅 2022 Goals 🥅</h2>
 
+- 🥅 2022 Goals: Finish Akamai BP, and start CF BP
 <h2 align="center">📈 Stats 📈</h2>
 <br /><br />
 
