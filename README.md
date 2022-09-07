@@ -43,7 +43,15 @@
 
 <h2 align="center">🥅 2022 Goals 🥅</h2>
 
-- 🥅 2022 Goals: Finish Akamai BP, and start CF BP
+- Finish Akamai ByPass  ✅
+- Bot Ticket ✅
+- Nike monitor store stocks ✅
+- Datadome Bypass ❌
+- Amazon Bot / Monitor 🟧
+- AI that generates human mouse movements ❌
+- AI resolving simple captcha ❌
+
+
 <h2 align="center">📈 Stats 📈</h2>
 <br /><br />
 
