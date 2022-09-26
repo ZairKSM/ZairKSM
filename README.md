@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm a Zaïr, a young developper !</h1>
+<h1 align="center">I'm a Yanis, a young developper !</h1>
 
 <br /><br />
 
@@ -43,7 +43,9 @@
 
 <h2 align="center">🥅 2022 Goals 🥅</h2>
 
-- Finish Akamai ByPass  ✅
+- Provide full solution of Akamai Antibot Software  ✅
+- Android SSL Pinning/Unpinning ✅
+- Reverse engineering with Ghidra and Frida 🟧
 - Bot Ticket ✅
 - Nike monitor store stocks ✅
 - Datadome Bypass ❌
