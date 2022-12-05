@@ -48,10 +48,10 @@
 - Reverse engineering with Ghidra and Frida 🟧
 - Bot Ticket ✅
 - Nike monitor store stocks ✅
-- Datadome Bypass ❌
+- Datadome Bypass 🟧
 - Amazon Bot / Monitor 🟧
-- AI that generates human mouse movements ❌
-- AI resolving simple captcha ❌
+- AI that generates human mouse movements ✅
+- AI resolving simple captcha ✅
 
 
 <h2 align="center">📈 Stats 📈</h2>
