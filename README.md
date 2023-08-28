@@ -4,9 +4,7 @@
 <br /><br />
 
 
-- 👟 I work in the sneakers business, building monitors, bypass and bots
-- 👨‍💻 I’m owner of **@KoraScript**, **@KoraTools** [<img align="center" float="right" alt="HTML5" width="26px" src="./img/kora-logo.png" style="padding-right:10px;" />](https://discord.gg/BzDGTSWzCD) and **@JungleHouse** [<img align="center" float="right" alt="HTML5" width="26px" src="./img/junglehouse-logo.png" style="padding-right:10px;" />](https://discord.gg/h9Cf5UAxTn)
-
+- 👟 I work in the sneakers and tickets business, building monitors, bypass and bots
 - 🎯 I learned everything I know by myself, thanks Youtube and StackOverflow
 
 
@@ -31,6 +29,7 @@
 [<img align="left" alt="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://google.com/)
 
+[<img align="left" alt="NextJs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="Frida" width="35px" src="./img/frida.png" />](https://google.com/)
 [<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://google.com/)
@@ -41,17 +40,13 @@
 <br />
 
 
-<h2 align="center">🥅 2022 Goals 🥅</h2>
+<h2 align="center">🥅 2023 Goals 🥅</h2>
 
-- Provide full solution of Akamai Antibot Software  ✅
-- Android SSL Pinning/Unpinning ✅
-- Reverse engineering with Ghidra and Frida 🟧
+- Provide full solution of Incapsula Antibot Software  ✅
+- Reverse engineering with Ghidra and Frida ✅
 - Bot Ticket ✅
-- Nike monitor store stocks ✅
-- Datadome Bypass 🟧
-- Amazon Bot / Monitor 🟧
-- AI that generates human mouse movements ✅
 - AI resolving simple captcha ✅
+- Build a complet web app with NextJs 🟧
 
 
 <h2 align="center">📈 Stats 📈</h2>
