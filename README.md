@@ -1,11 +1,11 @@
 
-<h1 align="center">I'm a Yanis, a young developper !</h1>
+<h1 align="center">🛠 Software Engineer | Web, Automation & Cybersecurity</h1>
 
 <br /><br />
 
 
-- 👟 I work in the sneakers and tickets business, building monitors, bypass and bots
-- 🎯 I learned everything I know by myself, thanks Youtube and StackOverflow
+- 👟 I work in the sneakers and tickets business, building monitors, softwares and bots
+- 👨‍💻 Self-Taught Developer | Cybersecurity & Automation
 
 
 
@@ -16,10 +16,9 @@
   
   
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://google.com/)
+        
 
-[<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://google.com/)
-
-[<img align="left" alt="3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://google.com/)
+[<img align="left" alt="3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](https://google.com/)
 
 [<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://google.com/)
@@ -27,26 +26,41 @@
 
 [<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="Golang" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />](https://google.com/)
-[<img align="left" alt="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" style="padding-right:10px;" />](https://google.com/)
+[<img align="left" alt="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://google.com/)
 
 [<img align="left" alt="NextJs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://google.com/)
 [<img align="left" alt="Frida" width="35px" src="./img/frida.png" />](https://google.com/)
 [<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://google.com/)
-[<img align="left" alt="Android" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding-right:10px;" />](https://google.com/)
-[<img align="left" alt="Terminal" width="35px" src="./img/terminal-dark.svg" />](https://google.com/)
+[<img align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://google.com/)
+[<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />](https://google.com/)
+[<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" style="padding-right:10px;" />](https://google.com/)
 
 <br /><br />
 <br />
 
 
-<h2 align="center">🥅 2023 Goals 🥅</h2>
+<h2 align="center">🥅 2025 Goals 🥅</h2>
 
-- Provide full solution of Incapsula Antibot Software  ✅
-- Reverse engineering with Ghidra and Frida ✅
-- AI resolving simple captcha ✅
-- Build a complet web app with NextJs 🟧
+- Have at least 3 certifications in cybersecurity (PNPT, CPTS ...)  ❌
+- First mobile app launch 🟧
+- Portfolio Website 🟧
+- 🎯 Complete the development of an Attack Surface Manager 🟧
+
+<h2 align="center">📂 Projects</h2>
+
+- 🚀 **Tikey Manager** — SaaS for automated ticket listing management across multiple platforms (Viagogo, StubHub...)  
+- 🛠 **Anti-Bot Bypass** — Advanced research to bypass anti-bots protections and improve bot success rates  
+- 📡 **E-Commerce Monitors** — Real-time monitors to detect product releases on e-commerce sites with webhook notifications  
+
+<h2 align="center">🌍 What I'm Currently Working On</h2>
+
+- 🔐 Blockchain development on **Solana**  
+- 🔄 Building a **Wallet App & Stability Improvements** for **Tikey Manager**  
+- 📊 Improving **data visualization** for event monitoring dashboards
+
+
 
 
 <h2 align="center">📈 Stats 📈</h2>
